@@ -7,7 +7,15 @@
     "arrow-parens": true,
     "align": true,
     "curly": true,
-    "typedef": true
+    "typedef": true,
+    "no-any": true,
+    "class-name": true,
+    "no-default-export": true,
+    "no-debugger": true,
+    "import-spacing": true,
+    "switch-default": true,
+    "max-classes-per-file": true,
+    "prefer-readonly": true
   },
   "rulesDirectory": []
 }
